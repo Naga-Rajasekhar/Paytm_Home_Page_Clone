@@ -5,6 +5,8 @@
 > This web page is designed with Tailwind CSS as it provides us feature rich classes and enables us to build web pages rapidly
 >
 > You can find the preview and live deployment link of the website below
+>
+> # [Live Deployment Link](https://paytm-home-page-raj.netlify.app/)
 
 # Preview
 
@@ -23,3 +25,9 @@
 5. Using icons provided by third part websites
 6. Styling buttons
 7. Positing elements
+
+<br>
+
+<hr>
+
+# It took around 20 hours to design this web page
