@@ -23,7 +23,6 @@
 4. Padding and Margin
 5. Using icons provided by third part websites
 6. Styling buttons
-<<<<<<< HEAD
 7. Positing elements
 
 <br>
@@ -31,6 +30,3 @@
 <hr>
 
 # It took around 20 hours to design this web page
-=======
-7. Positioning elements
->>>>>>> 8a920ad1005d33560c4b7860614d6bd30df25aed
