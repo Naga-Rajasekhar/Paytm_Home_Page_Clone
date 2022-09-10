@@ -12,7 +12,6 @@
 
 ![Preview Image](./assets/paytm_preview.png)
 
-## [Live Deployment Link](https://paytm-home-page-raj.netlify.app/)
 
 ### Concepts used while building this web page
 
