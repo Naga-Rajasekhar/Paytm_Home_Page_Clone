@@ -18,8 +18,8 @@
 
 1. Flex box
 2. Grid
-3. Positing Images and Videos
+3. Positioning Images and Videos
 4. Padding and Margin
 5. Using icons provided by third part websites
 6. Styling buttons
-7. Positing elements
+7. Positioning elements
